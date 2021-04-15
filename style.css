@@ -65,3 +65,6 @@ body {
 .empty:focus {
   outline: 0;
 }
+.btn-zero{
+  width: 210px;
+}
